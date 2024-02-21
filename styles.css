@@ -19,5 +19,6 @@ body {
 }
 
 ol {
-    color: white
+    list-style-type: square;
+    background: white;
 }
