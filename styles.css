@@ -5,10 +5,10 @@ h1 {
 }
 
 p {
-   color: gold;
+   color: violet;
    font-family: Arial;
    font-size: large;
-   background: sylver;
+   background: mediumaquamarine;
 }
 
 body {
@@ -16,4 +16,8 @@ body {
     background: url('lake_photo.png');
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+ol {
+    color: white
 }
