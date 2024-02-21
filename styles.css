@@ -5,7 +5,7 @@ h1 {
 }
 
 p {
-   color: violet;
+   color: black;
    font-family: Arial;
    font-size: large;
    background: mediumaquamarine;
@@ -19,6 +19,7 @@ body {
 }
 
 ol {
+
     list-style-type: square;
     background: mediumaquamarine;
 }
