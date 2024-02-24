@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Coursera Final Project</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body
+  <header>
+  <h1> HTML<span id = "tooltip">NOTES</span> </h1>
+    <p>In this page you will find three articles related to HTML issues. I hope you take advantage of them and learn something new. </p>
+    <nav>
+      <a href="#semantic tags">Semantic tags</a>
+      <a href="#hyperlinks">Hyperlinks</a>
+      <a href="#images">Images</a>
+    </nav>
+    <article id="semantic tags" >
+      <h2>Semantic Tags</h2>
+      <p><b>Semantic tags</b> are tags that are used to describe the content of a web page. They are used to provide meaning to the content of a web page. They are also used to improve the accessibility of the web page. </p>
+      <img src:"images/semantics.jpg" alt="Semantic tags">
+    </article>
+    <article id="hyperlinks"> 
+      <h2>Hyperlinks</h2>
+      <p><b>Hyperlinks</b> are used to link one web page to another. They are used to navigate between web pages. They are also used to provide a way to share information between different web pages. </p>
+      <img src:"images/hyperlinks.jpg" alt="Hyperlinks">
+    </article>
+    <article id="images">
+      <h2>Images</h2>
+      <p><b>Images</b> are used to add visual content to a web page. They are used to enhance the appearance of a web page. They are also used to provide a way to share information between different web pages. </p>
+      <img src:"images/images.jpg" alt="Images">
+    </article>
+  <script src="script.js"></script>
+  </header>
+  </div>
+</body>
+
+</html>
